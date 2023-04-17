@@ -1,4 +1,4 @@
-# www.telematyka.com
+# camera operator
 
 + IoT
 + Kamery
